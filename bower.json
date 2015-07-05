@@ -1,0 +1,61 @@
+{
+  "name": "fuelux-sass",
+  "description": "Fuel UX Sass Port (Unofficial)",
+  "keywords": [
+    "application",
+    "bootstrap",
+    "controls",
+    "css",
+    "exacttarget",
+    "front-end",
+    "fuelux",
+    "fuelux-sass",
+    "fuel ux",
+    "js",
+    "salesforce",
+    "user interface",
+    "web",
+    "sass",
+    "scss"
+  ],
+  "homepage": "http://getfuelux.com",
+  "dependencies": {
+    "jquery": "latest",
+    "requirejs": "2.x",
+    "bootstrap": "3.x",
+    "moment": "2.x"
+  },
+  "devDependencies": {
+    "jquery": null,
+    "jquery-1.9.1": "jquery#1.9.1",
+    "qunit": "~1.14.0",
+    "requirejs-text": "2.x",
+    "underscore": "1.x",
+    "blanket": "1.x"
+  },
+  "ignore": [
+    "**/.*",
+    "*.yml",
+    "BACKLOG.md",
+    "data.js",
+    "dev",
+    "devserver.js",
+    "dist/fuelux.zip",
+    "Gruntfile.js",
+    "index.css",
+    "index.html",
+    "index.js",
+    "node_modules",
+    "Procfile",
+    "test"
+  ],
+  "license": "BSD-3-Clause",
+  "main": [
+    "assets/stylesheets/fuelux.scss",
+    "assets/javascripts/fuelux.js",
+    "assets/fonts/fuelux.eot",
+    "assets/fonts/fuelux.svg",
+    "assets/fonts/fuelux.ttf",
+    "assets/fonts/fuelux.woff"
+  ]
+}
